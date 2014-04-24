@@ -1,4 +1,69 @@
 /* Your Website Styles */
+body{
+	background: #0A4958;
+}
+
+img {
+	width: 450px;
+	
+
+		
+}
+h1{
+	text-align: center;
+	color:#01B6AD;
+	font-family: 'Satisfy', 'cursive';
+	font-size: 100px;
+	
+}
+p{
+	font-family: 'Roboto Condensed', 'sans-serif';
+	color:#F6E7D2;
+
+}
+h3{
+	color:#01B6AD;
+	font-family: 'Satisfy', 'cursive';
+	font-size: 45px;
+}
+
+
+#bio{
+	padding-top: 50px;
+}
+
+#bio h3{
+	text-align: center;
+	margin-bottom: 50px;
+}
+#hobby{
+	margin-top: 100px;
+}
+
+#hobby h3{
+	text-align:center;
+	margin-bottom: 50px;
+}
+
+#hobby h5{
+	font-family: 'Satisfy', 'cursive';
+	color:#01B6AD;
+	text-align: center;
+	font-size: 20px;
+	
+
+}
+
+ 
+#hobbies p{
+
+}
+
+#hobbies img{
+	width:200px;
+	height: 133px;
+	
+}
 
 
 /* Show Grid */
